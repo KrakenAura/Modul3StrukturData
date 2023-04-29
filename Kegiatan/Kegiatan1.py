@@ -1,5 +1,4 @@
-# Python program to reverse a string using stack
- 
+
 # Function to create an empty stack.
 # It initializes size of stack as 0
  
@@ -66,5 +65,3 @@ def reverse(string):
 string = input("Masukkan input: ")
 string = reverse(string)
 print("Reversed: " + string)
- 
-# This code is contributed by Sunny Karira
